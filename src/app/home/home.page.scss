@@ -17,11 +17,23 @@
   font-size: 16px;
   line-height: 22px;
 
-  color: #8c8c8c;
+  color: #818080;
 
   margin: 0;
 }
 
 #container a {
   text-decoration: none;
+}
+ion-toolbar {
+  --background: #272727;
+  --color: rgb(238, 238, 238);
+
+  --border-color: #f7f7f7;
+  --border-width: 1px 0;
+  
+
+  --min-height: 10px;
+  --padding-top: 20px;
+  --padding-bottom: 10px;
 }
